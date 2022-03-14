@@ -14,5 +14,8 @@ testng testing
 
 cucumber
 
+Git
+Jiraa
 
-
+Jenkins
+Oracle
