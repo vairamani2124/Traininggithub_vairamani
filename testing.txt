@@ -13,6 +13,19 @@ junit testing
 testng testing
 
 cucumber
+Git
+Jiraa
+
+Jenkins
+Oracle
+
+Rest API
+Postman
+Rest Assured
+
+Appium
+
+
 
 
 
